@@ -1,5 +1,8 @@
 package com.mysite.sbb.packet.responsebody;
 
+import lombok.Data;
+
+@Data
 public class WeatherResponseBody {
     private int temperature;
     private int maxTemperature;
