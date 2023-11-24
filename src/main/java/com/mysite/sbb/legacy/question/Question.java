@@ -1,4 +1,4 @@
-package com.mysite.sbb.question;
+package com.mysite.sbb.legacy.question;
 
 import java.time.LocalDateTime;
 import java.util.List;
@@ -11,7 +11,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
-import com.mysite.sbb.answer.Answer;
+import com.mysite.sbb.legacy.answer.Answer;
 import lombok.Getter;
 import lombok.Setter;
 

@@ -1,12 +1,11 @@
-package com.mysite.sbb.question;
+package com.mysite.sbb.legacy.question;
 
 import java.util.List;
 import java.util.Optional;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
-import java.util.List;
 
-import com.mysite.sbb.DataNotFoundException;
+import com.mysite.sbb.legacy.DataNotFoundException;
 
 import org.springframework.stereotype.Service;
 import org.springframework.data.domain.Page;

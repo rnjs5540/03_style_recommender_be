@@ -1,4 +1,4 @@
-package com.mysite.sbb.question;
+package com.mysite.sbb.legacy.question;
 
 import javax.validation.constraints.NotEmpty;
 import javax.validation.constraints.Size;
